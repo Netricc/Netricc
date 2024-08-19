@@ -10,8 +10,8 @@ Hello! I'm Nawar Alsafadi, a front-end developer passionate about creating engag
 * 🖥️  See my portfolio at [Netric-Master](http://netricc.github.io/Netric-Master.com/index.html)
 * ✉️  You can contact me at [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)
 * 🚀  I'm currently working on [Organize-List](http://renderdjangotodolist.onrender.com)
-* 🧠  I'm learning Django
-* 🤝  I'm open to collaborating on portfolio projects
+* 🧠  I'm learning Django & Javascript
+* 🤝  I'm open to collaborating on Front end Project
 
 ### Skills
 
