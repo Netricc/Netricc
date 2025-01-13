@@ -12,7 +12,8 @@ Hello! I'm Nawar Alsafadi, a front-end developer passionate about creating engag
 * 🚀  I'm currently working on my some project to improuve my skills 🔥
 * 🧠  I'm learning React and UI/UX
 * 🤝  I'm open to collaborating on Ui/Ux design + Front end projects
-* ** check my LINKDN profile [here](www.linkedin.com/in/nawar-alsafadi)**
+  
+* 𓅪  check my LINKDN profile [here](www.linkedin.com/in/nawar-alsafadi)
 
 ### Skills
 
