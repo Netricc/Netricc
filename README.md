@@ -7,7 +7,7 @@ Front end Developer
 Hello! I'm Nawar Alsafadi, a front-end developer passionate about creating engaging user experiences. With expertise in programming languages like Python, I blend technical skills with a love for design to build visually appealing and functional websites. I specialize in responsive design, intuitive UX/UI, and seamless interfaces. My diverse skill set allows me to push the boundaries of web development and design.
 
 * 🌍  I'm based in Strasbourg
-* 🖥️  See my portfolio at [Netric-Master](http://netricc.github.io/Netric-Master.com/index.html)
+* 🖥️  See my portfolio at [Netric-Master](https://nawar-portfolio.vercel.app)
 * ✉️  You can contact me at [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)
 * 🚀  I'm currently working on my some project to improuve my skills 🔥
 * 🧠  I'm learning React and UI/UX
