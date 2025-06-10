@@ -17,8 +17,8 @@
 ## 📫 تواصل معي:
 - ✉️ البريد الإلكتروني: [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nawar-alsafadi)
-- 📷 [Instagram]([https://www.instagram.com/al_khwarizmi_arabic/])
-- 🎥 [YouTube]([https://www.youtube.com/@al-khwarizmi-arabic])
+- 📷 [Instagram](https://www.instagram.com/al_khwarizmi_arabic/)
+- 🎥 [YouTube](https://www.youtube.com/@al-khwarizmi-arabic)
 
 ---
 
