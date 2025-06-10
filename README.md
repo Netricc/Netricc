@@ -11,16 +11,14 @@
 
 ## 🧠 أعمل حاليًا على:
 - تطوير واجهات باستخدام **Next.js** و**React**
-- تعلم **UI/UX** لتصميم تجربة مستخدم احترافية
-- بناء مشاريع عملية في **Node.js** و**Django**
+- العمل على مشاريع **UI/UX** لتصميم تجربة مستخدم احترافية
+- اعمل على لغات برمجة و انظمة اخرى (**C/C++**, **Arduino**, **Linux**)
 
 ## 📫 تواصل معي:
 - ✉️ البريد الإلكتروني: [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)
-- 🌍 موقعي الشخصي: [nawar-portfolio.vercel.app](https://nawar-portfolio.vercel.app)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nawar-alsafadi)
-- 🎮 Discord: netric_bsn_28768
-- 📷 [Instagram](https://www.instagram.com/netric_master)
-- 🎥 [YouTube](https://www.youtube.com/@netric-py9ni)
+- 📷 [Instagram]([https://www.instagram.com/netric_master](https://www.instagram.com/al_khwarizmi_arabic/])
+- 🎥 [YouTube]([https://www.youtube.com/@netric-py9ni](https://www.youtube.com/channel/UC-IpSJv-noUFFpk4RGLZAhw])
 
 ---
 
