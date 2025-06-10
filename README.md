@@ -17,7 +17,7 @@
 ## 📫 تواصل معي:
 - ✉️ البريد الإلكتروني: [nawabsn911@gmail.com](mailto:nawabsn911@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/nawar-alsafadi)
-- 📷 [Instagram]([https://www.instagram.com/netric_master](https://www.instagram.com/al_khwarizmi_arabic/])
+- 📷 [Instagram]([https://www.instagram.com/al_khwarizmi_arabic/])
 - 🎥 [YouTube]([https://www.youtube.com/@netric-py9ni](https://www.youtube.com/channel/UC-IpSJv-noUFFpk4RGLZAhw])
 
 ---
